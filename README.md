@@ -1,16 +1,7 @@
-# myapp
+ ## mi stack ##
 
-A new Flutter project.
+ -- salida de datos --
 
-## Getting Started
+ https://www.tldraw.com/f/Afx-ezwnccC-eTQmcjz00?d=v-648.-318.1660.953.page
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ![image](https://github.com/user-attachments/assets/389aa8cf-d895-4175-b06c-38ab6ea9c0c8)
